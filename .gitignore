@@ -1,0 +1,17 @@
+#################
+## PSoC Creator
+#################
+
+*.cywrk.*
+*.cyprj.*
+*.lst
+*.pdf
+CoretexM3/
+codegentemp/
+Generated_Source/
+ARM_GCC_541/
+*.log
+*.pdf
+*timing.html
+Backup/
+Archive/
