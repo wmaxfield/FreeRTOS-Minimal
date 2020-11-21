@@ -2,7 +2,7 @@
 A FreeRTOS implementation for the PSOC 5 which provides a minimal base for your projects:  UART, USB Serial Uart and an LED flash
 FreeRTOS-Minimal
 A FreeRTOS implementation for the PSOC 5 which provides a minimal base for your projects: UART, USB Serial Uart and an LED flash Task
-
+Published under the permissive FreeRTOS license from Amazon.
 The Project is in the "master" branch. The main is the holder for the license and readme.
 
 If you purchase a CY8CKit-059, then this project will compile and load on it with no changes. 
